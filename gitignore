@@ -1,0 +1,13 @@
+# Build outputs
+build/
+*.elf
+*.uf2
+*.hex
+*.bin
+
+# VSCode
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
