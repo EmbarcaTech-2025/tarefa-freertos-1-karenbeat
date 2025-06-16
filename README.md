@@ -16,6 +16,8 @@ Brasília, junho de 2025
 
 Desenvolver um sistema multitarefa embarcado utilizando FreeRTOS e Pico SDK na placa BitDogLab (RP2040), controlando um LED RGB, um buzzer e botões de forma concorrente.
 
+oi
+
 ## 💡 Visão Geral do Projeto
 
 Este repositório contém o projeto **FreeRTOSpico**, que implementa:
