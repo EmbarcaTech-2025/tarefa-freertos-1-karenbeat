@@ -91,4 +91,3 @@ GNU GPL-3.0
 
 ---
 
-> Veja também o [Manual de Boas Práticas no GitHub](docs/1_3_Manual_de_Boas_Práticas_no_GitHub.pdf)
